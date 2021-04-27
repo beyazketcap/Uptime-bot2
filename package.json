@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node pythonic.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "discord.js": "^12.5.2",
+    "node-fetch": "^2.6.1",
+    "http": "^0.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
